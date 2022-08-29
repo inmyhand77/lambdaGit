@@ -1,0 +1,1 @@
+curl -L -v -d '{"id": 1, "name" : "hello"}' -H "Accept: application/json" -H "Content-Type: application/json" https://wdflsxjojf.execute-api.us-east-1.amazonaws.com/Prod/
